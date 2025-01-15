@@ -5,7 +5,6 @@
 - 🌱 I'm currently learning JavaScript frameworks like React and Node.js.
 - 💞️ I'm looking to collaborate on open-source projects that have a positive impact on the community.
 - 📫 How to reach me: [gpm@tuta.com](mailto:gpm@tuta.com).
-- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I'm a coffee enthusiast and love exploring new coffee shops in my free time.
 
 ## Featured Projects
